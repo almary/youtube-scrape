@@ -4,6 +4,10 @@
     "description": "Scrape YouTube searches",
     "main": "server.js",
     "author": "Herman Fassett",
+    "scripts": {
+        "start": "node src/index.js",
+        "build": "webpack" // This will now run on Heroku by default
+    },
     "dependencies": {
         "express": "latest",
         "request": "latest",
