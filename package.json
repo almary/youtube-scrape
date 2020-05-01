@@ -4,9 +4,6 @@
     "description": "Scrape YouTube searches",
     "main": "server.js",
     "author": "Herman Fassett",
-    "scripts": {
-        "build": "server.js"
-    },
     "dependencies": {
         "express": "latest",
         "request": "latest",
