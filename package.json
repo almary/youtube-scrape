@@ -6,7 +6,7 @@
     "author": "Herman Fassett",
     "scripts": {
         "start": "node src/index.js",
-        "build": "webpack" // This will now run on Heroku by default
+        "build": "webpack"
     },
     "dependencies": {
         "express": "latest",
