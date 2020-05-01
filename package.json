@@ -5,8 +5,7 @@
     "main": "server.js",
     "author": "Herman Fassett",
     "scripts": {
-        "start": "node src/index.js",
-        "build": "webpack"
+        "build": "server.js"
     },
     "dependencies": {
         "express": "latest",
